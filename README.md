@@ -9,9 +9,11 @@ Pandas // PrettyTable // Faker
 
 Inoltre:
 
-è necessario avere una versione di Python superiore alla 3.6.x per poter usare le "F-String"
+- è necessario avere una versione di Python superiore alla 3.6.x per poter usare le "F-String"
 
-è necessario avere installato il modulo openpyxl
+- è necessario avere installato il modulo openpyxl
+  
+##############################
 
 per l'installazione è possibile copiare le stringhe:
 
