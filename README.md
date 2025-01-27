@@ -17,10 +17,10 @@ Inoltre:
 
 per l'installazione è possibile copiare le stringhe:
 
-pip install faker
+pip3 install faker
 
-pip install prettytable
+pip3 install prettytable
 
-pip install pandas
+pip3 install pandas
 
-pip install openpyxl
+pip3 install openpyxl
